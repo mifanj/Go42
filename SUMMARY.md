@@ -1,7 +1,5 @@
 * [前言](README.md)
-## 第一章 Go安装与运行
-* [1.1 Go 安装](content/42_01_install.md#11-go安装)
-* [1.2 Go 语言开发工具](content/42_01_install.md#12-go语言开发工具)
+* [第一章 Go安装与运行](content/42_01_install.md)
 
 ## [第二章 数据类型](content/42_02_datatype.md)
 	* [2.1 基本数据类型](content/42_02_datatype.md#21-基本数据类型)
