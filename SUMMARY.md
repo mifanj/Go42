@@ -1,5 +1,5 @@
 * [前言](README.md)
-## [第一章 Go安装与运行](content/42_01_install.md)
+## 第一章 Go安装与运行
 * [1.1 Go 安装](content/42_01_install.md#11-go安装)
 * [1.2 Go 语言开发工具](content/42_01_install.md#12-go语言开发工具)
 
